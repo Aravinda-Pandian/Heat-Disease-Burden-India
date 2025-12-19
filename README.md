@@ -1,12 +1,12 @@
-#Heat Exposure and Disease Burden Across Indian States (2016–2023)
+Heat Exposure and Disease Burden Across Indian States (2016–2023)
 
-##Background 
+Background 
 
 Heat exposure is an important environmental factor with potential implications for population health in India. Large geographic and climatic variation across Indian states provides an opportunity to explore how patterns of heat exposure and disease burden vary spatially.
 
 This project presents an exploratory, descriptive analysis of state-level heat exposure and disease burden in India using publicly available secondary data.
 
-##Research Question
+Research Question
 
 How does disease burden vary across Indian states with differing levels of heat exposure?
 
